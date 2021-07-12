@@ -1,8 +1,10 @@
 # Install
 
-Requires python >= 3.2
+Requires python ( 3.9 recommanded )
 
+In cmd, write :
 > python -m pip install g-python
+
 
 # Commands
 
