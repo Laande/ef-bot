@@ -18,3 +18,6 @@ In cmd, write :
 
 
 # [Video](https://youtu.be/JpxGqJw8jwE)
+
+
+# [What is "EF" ?](https://www.youtube.com/watch?v=SjbtNVxCYpo)
