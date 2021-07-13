@@ -15,3 +15,6 @@ In cmd, write :
 - `/ef on` -> On / Off
 
 - `/ef reset` -> Reset all the script
+
+
+# [Video](https://youtu.be/JpxGqJw8jwE)
